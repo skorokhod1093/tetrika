@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+*.egg
+
+# Environments
+.venv/
+venv/
+env/
+.env
+
+# VSCode
+.vscode/
+
+# Pytest
+.pytest_cache/
+
+# Build
+build/
+dist/
+
+# CSV
+*.csv 
